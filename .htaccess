@@ -1,0 +1,111 @@
+rewriteengine on
+rewritecond %{HTTP_HOST} ^www.rezni.com$ [OR]
+rewritecond %{HTTP_HOST} ^rezni.com$
+rewriterule ^btl_contact_3\.html$ "http\:\/\/rezni\.com\/btl_contact\.html" [R=301,L] #4b8c409db9010
+rewritecond %{HTTP_HOST} ^www.rezni.com$ [OR]
+rewritecond %{HTTP_HOST} ^rezni.com$
+rewriterule ^bankrupted_companies_social_securuty_3\.html$ "http\:\/\/rezni\.com\/bankrupted_companies_social_securuty\.html" [R=301,L] #4b8c4020dc0be
+rewritecond %{HTTP_HOST} ^www.rezni.com$ [OR]
+rewritecond %{HTTP_HOST} ^rezni.com$
+rewriterule ^latin_sentences_4\.html$ "http\:\/\/rezni\.com\/latin_sentences\.html" [R=301,L] #4b8c4121d67dc
+rewritecond %{HTTP_HOST} ^www.rezni.com$ [OR]
+rewritecond %{HTTP_HOST} ^rezni.com$
+rewriterule ^latin_sentences_2\.html$ "http\:\/\/rezni\.com\/latin_sentences\.html" [R=301,L] #4b8c3f95c3ebe
+rewritecond %{HTTP_HOST} ^www.rezni.com$ [OR]
+rewritecond %{HTTP_HOST} ^rezni.com$
+rewriterule ^trudovoe_pravo_2\.html$ "http\:\/\/rezni\.com\/trudovoe_pravo\.html" [R=301,L] #4b8c3efa8cfdd
+rewritecond %{HTTP_HOST} ^www.rezni.com$ [OR]
+rewritecond %{HTTP_HOST} ^rezni.com$
+rewriterule ^prava_rabotnikov_2\.html$ "http\:\/\/rezni\.com\/prava_rabotnikov\.html" [R=301,L] #4b8c3dd9a7990
+rewritecond %{HTTP_HOST} ^www.rezni.com$ [OR]
+rewritecond %{HTTP_HOST} ^rezni.com$
+rewriterule ^bankrupted_companies_social_securuty_1\.html$ "http\:\/\/rezni\.com\/bankrupted_companies_social_securuty\.html" [R=301,L] #4b8c39ab8aa29
+rewritecond %{HTTP_HOST} ^www.rezni.com$ [OR]
+rewritecond %{HTTP_HOST} ^rezni.com$
+rewriterule ^about\.php$ "http\:\/\/rezni\.com\/about\.html" [R=301,L] #4b9c7e4eb1932
+rewritecond %{HTTP_HOST} ^www.rezni.com$ [OR]
+rewritecond %{HTTP_HOST} ^rezni.com$
+rewriterule ^greencard_3\.html$ "http\:\/\/rezni\.com\/greencard\.html" [R=301,L] #4b8c405d5435e
+rewritecond %{HTTP_HOST} ^www.rezni.com$ [OR]
+rewritecond %{HTTP_HOST} ^rezni.com$
+rewriterule ^social_security_israel\.html$ "http\:\/\/rezni\.com\/social_security\.html" [R=301,L] #4b98875c63370
+rewritecond %{HTTP_HOST} ^www.rezni.com$ [OR]
+rewritecond %{HTTP_HOST} ^rezni.com$
+rewriterule ^latin_sentences_1\.html$ "http\:\/\/rezni\.com\/latin_sentences\.html" [R=301,L] #4b8c3cae50310
+rewritecond %{HTTP_HOST} ^www.rezni.com$ [OR]
+rewritecond %{HTTP_HOST} ^rezni.com$
+rewriterule ^bankrupted_companies_social_securuty_2\.html$ "http\:\/\/rezni\.com\/bankrupted_companies_social_securuty\.html" [R=301,L] #4b8c3e5dd16da
+rewritecond %{HTTP_HOST} ^www.rezni.com$ [OR]
+rewritecond %{HTTP_HOST} ^rezni.com$
+rewriterule ^latin_sentences_3\.html$ "http\:\/\/rezni\.com\/latin_sentences\.html" [R=301,L] #4b8c40e2d2ab7
+rewritecond %{HTTP_HOST} ^www.rezni.com$ [OR]
+rewritecond %{HTTP_HOST} ^rezni.com$
+rewriterule ^prava_rabotnikov_3\.html$ "http\:\/\/rezni\.com\/prava_rabotnikov\.html" [R=301,L] #4b8c3e2a2e07b
+rewritecond %{HTTP_HOST} ^www.rezni.com$ [OR]
+rewritecond %{HTTP_HOST} ^rezni.com$
+rewriterule ^prava_rabotnikov_1\.html$ "http\:\/\/rezni\.com\/prava_rabotnikov\.html" [R=301,L] #4b8c3bdd37221
+rewritecond %{HTTP_HOST} ^www.rezni.com$ [OR]
+rewritecond %{HTTP_HOST} ^rezni.com$
+rewriterule ^invalidnost_2\.html$ "http\:\/\/rezni\.com\/invalidnost\.html" [R=301,L] #4b8c3d74cb096
+rewritecond %{HTTP_HOST} ^www.rezni.com$ [OR]
+rewritecond %{HTTP_HOST} ^rezni.com$
+rewriterule ^invalidnost_1\.html$ "http\:\/\/rezni\.com\/invalidnost\.html" [R=301,L] #4b8c391dd0d2b
+rewritecond %{HTTP_HOST} ^www.rezni.com$ [OR]
+rewritecond %{HTTP_HOST} ^rezni.com$
+rewriterule ^btl_3\.html$ "http\:\/\/rezni\.com\/btl\.html" [R=301,L] #4b8c3fdaf33c5
+rewritecond %{HTTP_HOST} ^www.rezni.com$ [OR]
+rewritecond %{HTTP_HOST} ^rezni.com$
+rewriterule ^btl_2\.html$ "http\:\/\/rezni\.com\/btl\.html" [R=301,L] #4b8c3d2e0658b
+rewritecond %{HTTP_HOST} ^www.rezni.com$ [OR]
+rewritecond %{HTTP_HOST} ^rezni.com$
+rewriterule ^greencard_2\.html$ "http\:\/\/rezni\.com\/greencard\.html" [R=301,L] #4b8c3ea07d438
+rewritecond %{HTTP_HOST} ^www.rezni.com$ [OR]
+rewritecond %{HTTP_HOST} ^rezni.com$
+rewriterule ^btl_contact_2\.html$ "http\:\/\/rezni\.com\/btl_contact\.html" [R=301,L] #4b8c3f4b3a3af
+rewritecond %{HTTP_HOST} ^www.rezni.com$ [OR]
+rewritecond %{HTTP_HOST} ^rezni.com$
+rewriterule ^trudovoe_pravo_1\.html$ "http\:\/\/rezni\.com\/trudovoe_pravo\.html" [R=301,L] #4b8c3b92d32a5
+rewritecond %{HTTP_HOST} ^www.rezni.com$ [OR]
+rewritecond %{HTTP_HOST} ^rezni.com$
+rewriterule ^greencard_1\.html$ "http\:\/\/rezni\.com\/greencard\.html" [R=301,L] #4b8c3a288371f
+rewritecond %{HTTP_HOST} ^www.rezni.com$ [OR]
+rewritecond %{HTTP_HOST} ^rezni.com$
+rewriterule ^btl_1\.html$ "http\:\/\/rezni\.com\/btl\.html" [R=301,L] #4b8c37fc6d793
+rewritecond %{HTTP_HOST} ^www.rezni.com$ [OR]
+rewritecond %{HTTP_HOST} ^rezni.com$
+rewriterule ^btl_contact_1\.html$ "http\:\/\/rezni\.com\/btl_contact\.html" [R=301,L] #4b8c3c1f2988f
+RewriteCond %{HTTP_REFERER} !^http://(www\.)?rezni.com/.*$ [NC]
+RewriteRule \.(gif|jpg|png)$ - [F,NS,L]
+<FilesMatch "\.(ico|pdf|jpg|jpeg|png|gif)$">
+Header set Expires "Thu, 27 Mar 2011 20:00:00 GMT"
+Header set Cache-Control "max-age=2419200, public"
+Header unset ETag
+FileETag None
+</FilesMatch>
+<FilesMatch "\.(html|js|css)$">
+Header set Cache-Control "max-age=2419200, public, proxy-revalidate"
+</FilesMatch>
+<files *.js.gz>
+Header set Cache-Control "max-age=2419200, private, proxy-revalidate"
+AddType "text/javascript" .gz
+AddEncoding gzip .gz
+</files>
+<files *.css.gz>
+Header set Cache-Control "max-age=2419200, private, proxy-revalidate"
+AddType "text/css" .gz
+AddEncoding gzip .gz
+</files>
+<files *.html.gz>
+Header set Cache-Control "max-age=2419200, public, proxy-revalidate"
+AddType "text/html" .gz
+AddEncoding gzip .gz
+</files>
+#Check to see if browser can accept gzip files.
+ReWriteCond %{HTTP:accept-encoding} gzip
+RewriteCond %{HTTP_USER_AGENT} !Safari
+#make sure there's no trailing .gz on the url
+ReWriteCond %{REQUEST_FILENAME} !^.+\.gz$
+#check to see if a .gz version of the file exists.
+RewriteCond %{REQUEST_FILENAME}.gz -f
+#All conditions met so add .gz to URL filename (invisibly)
+RewriteRule ^(.+) $1.gz [QSA,L]
